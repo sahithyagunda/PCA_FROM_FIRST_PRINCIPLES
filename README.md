@@ -1,6 +1,6 @@
-#### MATHEMATICAL FOUNDATIONS OF PRINCIPLE COMPONENT ANALYSIS(PCA)
+###### MATHEMATICAL FOUNDATIONS OF PRINCIPLE COMPONENT ANALYSIS(PCA)
 
-PThis project implements Principal Component Analysis (PCA) from first principles, without using machine learning libraries such as scikit-learn. The primary objective is to understand how PCA works mathematically.
+This project implements Principal Component Analysis (PCA) from first principles, without using machine learning libraries such as scikit-learn. The primary objective is to understand how PCA works mathematically.
 
 Instead of calling built-in PCA functions, all computations are implemented manually using basic Python and linear algebra operations. These include mean centering, covariance matrix computation, eigenvector estimation using power iteration, eigenvalue calculation, deflation for multiple components, projection to lower dimensions, and reconstruction error analysis.
 
